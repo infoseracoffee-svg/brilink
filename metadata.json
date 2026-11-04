@@ -1,0 +1,6 @@
+{
+  "name": "Agro Ledger System",
+  "description": "High-utility cash ledger and retail counter banking POS system engineered for retail agents, grocery proprietors, and mobile reload counters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
